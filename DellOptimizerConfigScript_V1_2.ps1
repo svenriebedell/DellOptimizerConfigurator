@@ -88,7 +88,7 @@ $Configuration = @(
     [pscustomobject]@{SettingName='Analytics.State'; SettingValue=$true;SettingIsLocked=$false}
 
     #### setting Applications
-    [pscustomobject]@{SettingName='AppPerformance.State'; SettingValue=$true;SettingIsLocked="false"}
+    [pscustomobject]@{SettingName='AppPerformance.State'; SettingValue=$true;SettingIsLocked=$false}
     [pscustomobject]@{SettingName='AppPerformance.PrioritizeForeground'; SettingValue=$false; SettingIsLocked=$false}
     [pscustomobject]@{SettingName='AppPerformance.PDNotification'; SettingValue=$false; SettingIsLocked=$false}
      
@@ -156,11 +156,11 @@ $Configuration = @(
 $Software = @(
     
     #### Optimizer Preferences
-    [pscustomobject]@{ProfileName='Microsoft Teams'; ProcessName="Teams.exe"; Priority="1"}
-    [pscustomobject]@{ProfileName='Google Chrome'; ProcessName="Chrome.exe"; Priority="2"}
-    [pscustomobject]@{ProfileName=""; ProcessName=""; Priority="3"}
-    [pscustomobject]@{ProfileName=""; ProcessName=""; Priority="4"}
-    [pscustomobject]@{ProfileName=""; ProcessName=""; Priority="5"}
+    [pscustomobject]@{ProfileName='Microsoft Teams'; ProcessName='Teams.exe'; Priority='1'}
+    [pscustomobject]@{ProfileName='Google Chrome'; ProcessName="Chrome.exe"; Priority='2'}
+    [pscustomobject]@{ProfileName=''; ProcessName=''; Priority='3'}
+    [pscustomobject]@{ProfileName=''; ProcessName=''; Priority='4'}
+    [pscustomobject]@{ProfileName=''; ProcessName=''; Priority='5'}
     
 
 )
