@@ -21,13 +21,19 @@ In no event shall Dell Technologies, its affiliates or suppliers, be liable for 
 
 The GUI supporting all Dell Optimizer settings as possible at the moment. Settings are based on Dell Optimizer User Guide which configure settings are existing.  https://www.dell.com/support/manuals/en-us/dell-optimizer/dell-optimizer-3.1_ug/command-line-interface-for-dell-optimizer?guid=guid-a82481c9-8abf-4a15-9f2b-6011e36c6b19&lang=en-us
 
+![6676e1ab-bec7-40e4-8fc5-b1054bbd8b15](https://user-images.githubusercontent.com/99394991/207340102-a82347e4-82e1-4b76-9d2f-6f49be0447a9.jpg)
+
 ## PowerShell
 
 After you have clicked on Generated PowerShell you will get an PowerShell script which includes all your settings. If you run the PowerShell it will checking first which settings a device is supporting and only this one will be changed if needed. If your setting are still existing on a machine the configuration will be skiped.
 
+
+
 ## Logging function (by PowerShell script)
 
 The new script will logging all action in Microsoft Events for later checking by administrators.
+
+![fd03cd62-cf52-4f3f-bb38-0e21584ecdab](https://user-images.githubusercontent.com/99394991/207339606-2d09bd01-755b-48ec-b22a-3472e78e70f4.jpg)
 
 Return Codes Dell Optimizer
 0 Success
