@@ -5,7 +5,7 @@
 **Required installation of Microsoft.net Version 6**
 
 ## Description
-This Application is a standalone tool for administrators. It allows administrators to make rules of settings for the Dell Optimizer Version 3.1.222.0 After you have finished all your required settings you can automatically generate a PowerShell script which will execute all required settings on a remote machine. PowerShell supports all Client Management platforms; you can use it with Microsoft Intune or other solutions like Matrix42 or Microsoft SCCM (System Centre Configuration Manager). 
+This Application is a standalone tool for administrators. It allows administrators to make rules of settings for the Dell Optimizer *Version 3.1.222.0* After you have finished all your required settings you can automatically generate a PowerShell script which will execute all required settings on a remote machine. PowerShell supports all Client Management platforms; you can use it with Microsoft Intune or other solutions like Matrix42 or Microsoft SCCM (System Centre Configuration Manager). 
 
 ### Change log:
 - 1.0     initial tool supports Dell Optimizer Version 2.x only 
