@@ -7,11 +7,12 @@ This Application is a standalone tool for administrators. It allows administrato
 
 ### Change log:
 - 1.0     inital tool supports Dell Optimier Version 2.x only
-- 1.2     **New Functions:**      
-                -  Save and Load of configurations
-                -  Support of Dell Optimizer Version 3.1.222.0
-                -  rebuild the PowerShell form scratch
-                -  PowerShell will writing Logs in Microsoft Event for later better visibility
+- 1.2     **New Functions:**
+
+- Save and Load of configurations
+- Support of Dell Optimizer Version 3.1.222.0
+- rebuild the PowerShell form scratch
+- PowerShell will writing Logs in Microsoft Event for later better visibility
 
 ## Legal disclaimer:
 **THE INFORMATION IN THIS PUBLICATION IS PROVIDED 'AS-IS.' DELL MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THE INFORMATION IN THIS PUBLICATION, AND SPECIFICALLY DISCLAIMS IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
