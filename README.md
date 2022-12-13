@@ -36,33 +36,33 @@ The new script will logging all action in Microsoft Events for later checking by
 
 ![fd03cd62-cf52-4f3f-bb38-0e21584ecdab](https://user-images.githubusercontent.com/99394991/207339606-2d09bd01-755b-48ec-b22a-3472e78e70f4.jpg)
 
-Return Codes Dell Optimizer
-0 Success
-1 Failure
-2 Reboot required
-3 Failed to configure the read-only setting
-4 Failed to configure licensed feature
-5 Dell Optimizer service not installed
-6 Dell Optimizer service is disabled
-7 Dell Optimizer service is not running
-8 Another instance of CLI is active
-9 Another instance of user interface is active
-10 It requires administrator privilege
+**Return Codes Dell Optimizer**
+* 0 Success
+* 1 Failure
+* 2 Reboot required
+* 3 Failed to configure the read-only setting
+* 4 Failed to configure licensed feature
+* 5 Dell Optimizer service not installed
+* 6 Dell Optimizer service is disabled
+* 7 Dell Optimizer service is not running
+* 8 Another instance of CLI is active
+* 9 Another instance of user interface is active
+* 10 It requires administrator privilege
 
-Microsoft Event Log IDs´
-10 Dell Optimizer is installed on machine
-12 Dell Optimizer not found on machine
-20 Setting change Error
-21 Setting not changed because of it the same
-22 Setting Changed
-23 Setting is Read Only and can not change now
-24 Setting is not availible on this device
-30 Unlock change Error
-31 Unlock not changed because of it the same
-32 Unlock Changed to false
-30 Lock change Error
-31 Lock not changed because of it the same
-32 Lock Changed to true
-40 Set Application failure
-41 Learned/Optimizer Apps on Device
-42 Add App to learn success full
+**Microsoft Event Log IDs**´
+* 10 Dell Optimizer is installed on machine
+* 12 Dell Optimizer not found on machine
+* 20 Setting change Error
+* 21 Setting not changed because of it the same
+* 22 Setting Changed
+* 23 Setting is Read Only and can not change now
+* 24 Setting is not availible on this device
+* 30 Unlock change Error
+* 31 Unlock not changed because of it the same
+* 32 Unlock Changed to false
+* 30 Lock change Error
+* 31 Lock not changed because of it the same
+* 32 Lock Changed to true
+* 40 Set Application failure
+* 41 Learned/Optimizer Apps on Device
+* 42 Add App to learn success full
