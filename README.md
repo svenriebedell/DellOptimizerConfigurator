@@ -5,13 +5,13 @@
 ## Description
 This Application is a standalone tool for administrators. It allows administrators to make rule of settings for the Dell Optimizer Version 3.1.222.0 After you have finish all your required settings you can generate a automatically a PowerShell script which will execute all required settings on a machine. The PowerShell is plattform open you can use it by Microsoft Intune oder other solutions like Matrix42 or Microsoft SCCM.
 
-Change log:
-1.0     inital tool supports Dell Optimier Version 2.x only
-1.2     **New Functions:**
-        - Save and Load of configurations
-        - Support of Dell Optimizer Version 3.1.222.0
-        - rebuild the PowerShell form scratch
-        - PowerShell will writing Logs in Microsoft Event for later better visibility
+### Change log:
+- 1.0     inital tool supports Dell Optimier Version 2.x only
+- 1.2     **New Functions:**      
+                -  Save and Load of configurations
+                -  Support of Dell Optimizer Version 3.1.222.0
+                -  rebuild the PowerShell form scratch
+                -  PowerShell will writing Logs in Microsoft Event for later better visibility
 
 ## Legal disclaimer:
 **THE INFORMATION IN THIS PUBLICATION IS PROVIDED 'AS-IS.' DELL MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THE INFORMATION IN THIS PUBLICATION, AND SPECIFICALLY DISCLAIMS IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
@@ -27,6 +27,7 @@ The GUI supporting all Dell Optimizer settings as possible at the moment. Settin
 
 After you have clicked on Generated PowerShell you will get an PowerShell script which includes all your settings. If you run the PowerShell it will checking first which settings a device is supporting and only this one will be changed if needed. If your setting are still existing on a machine the configuration will be skiped.
 
+![A10E4218-85E9-46B5-B21E-E4B29EA73100](https://user-images.githubusercontent.com/99394991/207343457-50fb6861-a99c-4d8e-8371-27855aabb390.GIF)
 
 
 ## Logging function (by PowerShell script)
