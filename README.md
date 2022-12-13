@@ -6,8 +6,8 @@
 This Application is a standalone tool for administrators. It allows administrators to make rule of settings for the Dell Optimizer Version 3.1.222.0 After you have finish all your required settings you can generate a automatically a PowerShell script which will execute all required settings on a machine. The PowerShell is plattform open you can use it by Microsoft Intune oder other solutions like Matrix42 or Microsoft SCCM.
 
 ### Change log:
-1.0     inital tool supports Dell Optimier Version 2.x only
-1.2     **New Functions:**
+- 1.0     inital tool supports Dell Optimier Version 2.x only
+- 1.2     **New Functions:**
     * Save and Load of configurations
     * Support of Dell Optimizer Version 3.1.222.0
     * rebuild the PowerShell form scratch
