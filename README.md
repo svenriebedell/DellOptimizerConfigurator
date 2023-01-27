@@ -24,13 +24,14 @@ In no event shall Dell Technologies, its affiliates or suppliers, be liable for 
 The GUI (Graphical User Interface) supports all Dell Optimizer settings described in the User Guide. 
 https://www.dell.com/support/manuals/en-us/dell-optimizer/dell-optimizer-3.1_ug/command-line-interface-for-dell-optimizer?guid=guid-a82481c9-8abf-4a15-9f2b-6011e36c6b19&lang=en-us
 
-![6676e1ab-bec7-40e4-8fc5-b1054bbd8b15](https://user-images.githubusercontent.com/99394991/207340102-a82347e4-82e1-4b76-9d2f-6f49be0447a9.jpg)
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/99394991/215116616-84f36e3d-6526-4625-96d1-26fce09ef4ea.png)
+
 
 ## PowerShell
 
 After you have clicked on Generated PowerShell you will get an PowerShell script which includes all your settings. If you run this PowerShell, it will check first which settings a device is supporting and only this one will be changed if needed. If your settings are still existing on a machine the configuration will be skipped.  The PowerShell supports settings and Application learning for optimization as well.
 
-![A10E4218-85E9-46B5-B21E-E4B29EA73100](https://user-images.githubusercontent.com/99394991/207343457-50fb6861-a99c-4d8e-8371-27855aabb390.GIF)
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/99394991/215116685-1f5a1d9e-1fa7-4732-b9e2-39c5a1a5a569.png)
 
 
 ## Logging function (by PowerShell script)
